@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1_PH40493</string>
+    <string name="content">
+        Các thành phần cơ bản trong android: \n
+        1. Activity \n
+        2. Service \n
+        3. ContentProvider \n
+        4. BroadcastReceive \n
+    </string>
+</resources>
